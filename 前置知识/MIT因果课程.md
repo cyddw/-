@@ -2,7 +2,7 @@
 ### 核心问题：如何从多变量问题中找到变量间的因果关系
 ### 解决方法:  
 **1.** 模型基本假设：噪声呈联合独立高斯分布，且函数都是非线性  
-<img width="575" alt="屏幕截图 2024-10-12 162701" src="https://github.com/user-attachments/assets/f43adf0f-8425-45ac-a1b6-a788ff507fd2">    
+<img width="575" alt="屏幕截图 2024-10-12 162701" src="https://github.com/user-attachments/assets/f43adf0f-8425-45ac-a1b6-a788ff507fd2">  
 **2.** 引入[KL散度](https://zhuanlan.zhihu.com/p/100676922)，[简单来讲，KL散度就是利用信息论的熵的概念来量化估计模型和实际模之间的差距，KL散度越小，估计模型丢失的信息越少]来计算实验分布和X->Y函数空间以及Y->X函数空间的距离，对于多变量，则有下面的方法：  
 <img width="587" alt="image" src="https://github.com/user-attachments/assets/282c64a6-37b6-4ec5-8680-b2167afe9bd0">  
 上式中residuals是残差，即观察值与估计值（拟合值）之间的差。用一句话说明就是：遍历每一种可能的因果关系，基于每种因果关系，拟合出分布函数，再计算拟合出的分布与真实分布之间的距离，最后选择那个与真实分布距离最小的分布函数基于的因果关系。
