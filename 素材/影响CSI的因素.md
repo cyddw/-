@@ -1,1 +1,3 @@
-
+## LLM4CP: Adapting Large Language Models for Channel Prediction
+Typically, CSI is acquired through channel estimation whose updating frequency is dictated by the channel coherence time. For mobility scenarios involving high-velocity users, the
+shortened channel coherence time significantly increases the overhead of channel estimation, thereby leading to an appreciable reduction in the system SE. Additionally, in frequency division duplex (FDD) systems where channel reciprocity does not hold, the base station (BS) can only obtain downlink CSI through user feedback, resulting in increased overhead and delay.
