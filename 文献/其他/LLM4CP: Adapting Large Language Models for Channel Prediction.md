@@ -8,6 +8,7 @@
 ### 前提假设
 单个BS和单个用户组成的多输入单输出（MISO）OFDM模型
 ### 符号说明
-<img width="446" alt="image" src="https://github.com/user-attachments/assets/a09ae541-100b-4548-94d1-4cb8cab72073">
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/a09ae541-100b-4548-94d1-4cb8cab72073">  
+N<sub>t</sub>
 
 ## 结果分析
