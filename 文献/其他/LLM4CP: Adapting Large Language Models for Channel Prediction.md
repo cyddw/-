@@ -6,7 +6,7 @@
 考虑到LLM的泛化能力和建模能力，利用上行链路的历史CSI结合LLM预测下行链路的未来CSI，同时解决了CSI数据迁移到LLM的问题
 ## 具体实现
 ### 前提假设
-多输入单输出（MISO）OFDM模型
+单个BS和单个用户组成的多输入单输出（MISO）OFDM模型
 ### 符号说明
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/a09ae541-100b-4548-94d1-4cb8cab72073">
 
