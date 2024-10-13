@@ -2,4 +2,7 @@
 ### 宽带信道和窄带信道
 **宽带系统：** 信道带宽大于多径信道的相关带宽，使得接收端收到的信号之间产生干扰  
 **窄带系统：** 信道带宽小于多径信道的相关带宽
-### CDL
+### CDL  
+
+<img width="496" alt="image" src="https://github.com/user-attachments/assets/f9b0f48e-fbf1-4ea1-9dc9-a335b4826171">
+
