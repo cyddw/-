@@ -13,4 +13,5 @@ N<sub>t</sub>=N<sub>h</sub>×N<sub>v</sub>表示BS的天线数量
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/a09ae541-100b-4548-94d1-4cb8cab72073">
 
 ### 信道模型
+BS端给定
 ## 结果分析
