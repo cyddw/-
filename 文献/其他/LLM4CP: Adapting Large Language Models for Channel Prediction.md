@@ -33,5 +33,6 @@ N<sub>t</sub>=N<sub>h</sub>×N<sub>v</sub>表示BS的天线数量
 <img width="424" alt="image" src="https://github.com/user-attachments/assets/3460d946-de87-4cf0-bb05-51059b34f1dc">  
 其中，NMSE表示归一化均方误差，各参数表示如下：  
 <img width="316" alt="image" src="https://github.com/user-attachments/assets/2b73dff8-7c98-49d8-a7f0-d984ee7696b8">  
+  
 <img width="320" alt="image" src="https://github.com/user-attachments/assets/16ce1047-44a1-417c-83a2-5d78f3daf998">  
 
