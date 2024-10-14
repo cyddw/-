@@ -13,5 +13,10 @@ N<sub>t</sub>=N<sub>h</sub>×N<sub>v</sub>表示BS的天线数量
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/a09ae541-100b-4548-94d1-4cb8cab72073">
 
 ### 信道模型
-BS端给定
+假定BS端使用UPA天线，用户端使用全向天线，同时考虑基于簇的多径信道模型，则在时刻t，频率f的下行链路的CSI表示如下：  
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/ec4e6c5c-4683-4d70-80b8-ac299787a2c7">  
+其中，导向矢量具体建模如下：  
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/100382cb-492f-40be-8a85-d59f6f3f3196">  
+
+
 ## 结果分析
