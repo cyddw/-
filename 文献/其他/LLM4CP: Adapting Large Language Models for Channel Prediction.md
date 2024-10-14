@@ -27,6 +27,12 @@ N<sub>t</sub>=N<sub>h</sub>×N<sub>v</sub>表示BS的天线数量
 ### 预测模型
 传统的TDD和FDD模型对下行CSI的获取：  
 <img width="568" alt="image" src="https://github.com/user-attachments/assets/ab5f055c-7580-440c-9915-02046b6ecc81">  
+基于LLM的信道预测模型：  
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/444f4dab-9e35-4ef4-9413-1650c910b570">  
+目标函数：  
+<img width="424" alt="image" src="https://github.com/user-attachments/assets/3460d946-de87-4cf0-bb05-51059b34f1dc">  
+其中，NMSE表示归一化均方误差
+
 
 
 
