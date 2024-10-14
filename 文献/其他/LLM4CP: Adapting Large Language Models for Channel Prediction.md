@@ -20,7 +20,7 @@ N<sub>t</sub>=N<sub>h</sub>×N<sub>v</sub>表示BS的天线数量
 ### 信号模型
 考虑BS端进行[预编码](https://blog.csdn.net/weixin_43871127/article/details/104593325)，则接收端信号表示如下：  
 <img width="376" alt="image" src="https://github.com/user-attachments/assets/789ae755-7941-4e3e-a476-17e9433bc48b">  
-频谱效率表示如下：
+频谱效率表示如下：  
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/7cad7944-9ae9-4592-aa32-3e72a1ac53eb">  
 预编码矩阵选择如下：  
 <img width="383" alt="image" src="https://github.com/user-attachments/assets/71ede610-9b25-4257-84fe-cc20f61239c2">
