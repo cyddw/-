@@ -24,4 +24,9 @@ N<sub>t</sub>=N<sub>h</sub>×N<sub>v</sub>表示BS的天线数量
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/7cad7944-9ae9-4592-aa32-3e72a1ac53eb">  
 预编码矩阵选择如下：  
 <img width="383" alt="image" src="https://github.com/user-attachments/assets/71ede610-9b25-4257-84fe-cc20f61239c2">
+### 预测模型
+传统的TDD和FDD模型对下行CSI的获取：  
+<img width="312" alt="image" src="https://github.com/user-attachments/assets/32b462f5-fd64-4c18-8725-9444dbe93497">  
+在TDD系统中，由于信道互易性，可以通过上行导频的信道估计在基站侧获得下行CSI。  
+
 ## 结果分析
