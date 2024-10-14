@@ -10,4 +10,11 @@
 <img width="773" alt="image" src="https://github.com/user-attachments/assets/4002f231-9279-4a30-a258-8ff0de0e30df">  
 ### 参考文献：[知乎](https://zhuanlan.zhihu.com/p/24416610)
 
+## 导频  
+在802.11中，始终是用特定的子载波作为导频子载波，从而完成信道估计的功能，在802.11ax中，导频子载波的分配如下：  
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/21bd71b2-5778-47cb-882c-561f2abba4e7">  
+其中红色的直线即代表导频子载波的位置，其导频资源是均匀分布在整个信道上的。比如在RU为26个子载波的情况下，每一个RU中都包含了2个pilot，在RU为52个子载波的情况下，每一个RU包含4个pilot。通过这些pilot的设置，在传输过程中，接收方才可以有效地估计信道，并完成解调的工作。
+
+### 参考文献：[知乎](https://zhuanlan.zhihu.com/p/24416610)
+
 
