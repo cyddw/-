@@ -24,7 +24,11 @@
 
 由贝叶斯公式可以得到：
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/76b1653b-d669-4797-8862-2d70a90b5b59">
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/e7613937-9acb-42b1-9935-41a5ad597b93">
+
+将具体数值带入，可以得到：
+
+<img width="857" alt="image" src="https://github.com/user-attachments/assets/d6ff88a3-9aad-4063-8856-616a7a640e20">
 
 
 
