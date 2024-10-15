@@ -21,6 +21,7 @@
 <img width="520" alt="image" src="https://github.com/user-attachments/assets/ef9fe7b2-f6d3-441b-a180-196be6a6bb5a">
 
 **Denoising Process:**
+
 由贝叶斯公式可以得到：
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/76b1653b-d669-4797-8862-2d70a90b5b59">
