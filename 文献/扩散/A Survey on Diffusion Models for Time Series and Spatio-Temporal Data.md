@@ -6,7 +6,7 @@
 时空数据的定义：  
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/6d01ae66-b192-4bb6-8323-57e9a24e718b">  
 ## 扩散模型
-### Denoised Diffusion Probabilistic Models (DDPMs)
+### 1.Denoised Diffusion Probabilistic Models (DDPMs)
 **Diffusion Process:**   
 
 
