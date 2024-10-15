@@ -30,6 +30,15 @@
 
 <img width="821" alt="image" src="https://github.com/user-attachments/assets/af959d4f-d25e-4e57-8f8f-30ad7eef8231">
 
+显然此时只要得到噪声ε，即可一步步反推得到x<sub>0</sub>，因此可以借助神经网络完成对其的估计：
+
+<img width="432" alt="image" src="https://github.com/user-attachments/assets/4aa6698d-dfc4-4348-ae7b-5d2bf03206f6">
+
+其中神经网络的Loss Function如下：
+
+<img width="389" alt="image" src="https://github.com/user-attachments/assets/560e9af1-b91c-4ba0-94a4-c34d0c46a3ba">
+
+
 
 
 
