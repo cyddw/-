@@ -28,7 +28,8 @@
 
 将具体数值带入，可以得到：
 
-<img width="857" alt="image" src="https://github.com/user-attachments/assets/d6ff88a3-9aad-4063-8856-616a7a640e20">
+<img width="821" alt="image" src="https://github.com/user-attachments/assets/af959d4f-d25e-4e57-8f8f-30ad7eef8231">
+
 
 
 
