@@ -14,13 +14,13 @@
   
 则第k步的数据满足的分布如下：  
   
-<img width="515" alt="image" src="https://github.com/user-attachments/assets/dc92e4d1-f881-4e22-a062-a46b83ea6ed4">  
-  
+<img width="515" alt="image" src="https://github.com/user-attachments/assets/dc92e4d1-f881-4e22-a062-a46b83ea6ed4">
+
 根据高斯分布的性质，可以从第0步直接得到第k步的分布：  
   
 <img width="520" alt="image" src="https://github.com/user-attachments/assets/ef9fe7b2-f6d3-441b-a180-196be6a6bb5a">
 
-让我
+
 
 
 
