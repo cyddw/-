@@ -8,11 +8,16 @@
 ## 扩散模型
 ### 1.Denoised Diffusion Probabilistic Models (DDPMs)
 **Diffusion Process:**   
-通过下面的过程对原始数据进行K步加噪处理：  
+通过下面的过程对原始数据进行K步加噪处理： 
+  
 <img width="853" alt="image" src="https://github.com/user-attachments/assets/2c153f61-57ca-4a91-883b-c5cdb56781a5">  
+  
 则第k步的数据满足的分布如下：  
+  
 <img width="515" alt="image" src="https://github.com/user-attachments/assets/dc92e4d1-f881-4e22-a062-a46b83ea6ed4">  
+  
 根据高斯分布的性质，可以从第0步直接得到第k步的分布：  
+  
 <img width="520" alt="image" src="https://github.com/user-attachments/assets/ef9fe7b2-f6d3-441b-a180-196be6a6bb5a">
 
 
