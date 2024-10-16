@@ -7,6 +7,7 @@
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/6d01ae66-b192-4bb6-8323-57e9a24e718b">  
 ## 扩散模型
 ### 1.Denoised Diffusion Probabilistic Models (DDPMs)
+
 **Diffusion Process:**
 
 通过下面的过程对原始数据进行K步加噪处理： 
