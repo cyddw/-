@@ -52,7 +52,21 @@
 
 与DDPMs不同，SDE将DDPMs的离散情况推广到连续
 
-**Forward Process**
+**Forward Process：**
+
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/6cb0c45b-6262-4f13-8368-3d9cf15f0652">
+
+**Reverse Process：**
+
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/2bf66d95-13b9-4d64-9826-41fe517c2beb">
+
+其中神经网络的Loss Function如下：
+
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/99cae6e5-06fa-4af3-9321-3e3691e6288b">
+
+
+
+
 
 
 ## 参考文献：[bilibili](https://www.bilibili.com/video/BV1tz4y1h7q1/?spm_id_from=333.337.search-card.all.click&vd_source=887e79a2964e5ce84cbcf68e50febd27)
