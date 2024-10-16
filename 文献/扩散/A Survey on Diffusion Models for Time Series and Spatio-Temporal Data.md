@@ -74,6 +74,13 @@ Conditional Diffusion Model的适用范围：
 
 由于其高度的特定性以及输出可控性，可以用于特定的场景
 
+### 常见的生成模型
+
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/c36d7a3f-30a3-459a-b2fc-14eaec0e711a">
+
+## 扩散模型的应用领域
+
+**+ Forecasting**
 
 
 
