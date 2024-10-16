@@ -80,7 +80,7 @@ Conditional Diffusion Model的适用范围：
 
 ## 扩散模型的应用领域
 
-**+ Forecasting**
++ Forecasting
 
 
 
