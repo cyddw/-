@@ -82,7 +82,11 @@ Conditional Diffusion Model的适用范围：
 
 + Forecasting
 
++ Generation
 
++ Imputation
+
++ Anomaly Detection
 
 ## 参考文献：[bilibili](https://www.bilibili.com/video/BV1tz4y1h7q1/?spm_id_from=333.337.search-card.all.click&vd_source=887e79a2964e5ce84cbcf68e50febd27)
 
