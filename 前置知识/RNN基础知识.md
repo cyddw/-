@@ -9,4 +9,12 @@
 
 > <img width="676" alt="image" src="https://github.com/user-attachments/assets/5a00085c-ffd3-4ce2-a7e6-16a539f79f62">
 
+### RNN的基本原理
+
+RNN原理图如下：
+
+> <img width="537" alt="image" src="https://github.com/user-attachments/assets/f787fc7e-9287-49d0-881f-9f233a3df28a">
+
+
+
 
