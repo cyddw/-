@@ -21,6 +21,7 @@
 <img width="520" alt="image" src="https://github.com/user-attachments/assets/ef9fe7b2-f6d3-441b-a180-196be6a6bb5a">
 
 **Denoising Process:**
+
 由贝叶斯公式可以得到：
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/e7613937-9acb-42b1-9935-41a5ad597b93">
@@ -39,6 +40,7 @@
 
 ### 2.Score SDE Formulation
 与DDPMs不同，SDE将DDPMs的离散情况推广到连续
+
 **Forward Process**
 
 
