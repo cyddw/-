@@ -7,6 +7,6 @@
 
 相比于全连接神经网络，RNN可以更好的挖掘语义：
 
-<img width="676" alt="image" src="https://github.com/user-attachments/assets/5a00085c-ffd3-4ce2-a7e6-16a539f79f62">
+> <img width="676" alt="image" src="https://github.com/user-attachments/assets/5a00085c-ffd3-4ce2-a7e6-16a539f79f62">
 
 
