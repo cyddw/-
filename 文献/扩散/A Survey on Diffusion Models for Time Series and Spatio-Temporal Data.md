@@ -1,11 +1,19 @@
 ### 时间序列数据和时空数据
-时间序列数据的定义：  
-<img width="457" alt="image" src="https://github.com/user-attachments/assets/4efeec15-9244-4394-a90a-b7c107dce1f4">  
-时间序列包括单变量和多变量：  
-<img width="243" alt="image" src="https://github.com/user-attachments/assets/0677a9c8-16bb-4b29-ab0e-5b38bd07f317">  
-时空数据的定义：  
-<img width="512" alt="image" src="https://github.com/user-attachments/assets/6d01ae66-b192-4bb6-8323-57e9a24e718b">  
+
+时间序列数据的定义：
+
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/4efeec15-9244-4394-a90a-b7c107dce1f4">
+
+时间序列包括单变量和多变量：
+
+<img width="243" alt="image" src="https://github.com/user-attachments/assets/0677a9c8-16bb-4b29-ab0e-5b38bd07f317">
+
+时空数据的定义：
+
+<img width="512" alt="image" src="https://github.com/user-attachments/assets/6d01ae66-b192-4bb6-8323-57e9a24e718b">
+
 ## 扩散模型
+
 ### 1.Denoised Diffusion Probabilistic Models (DDPMs)
 
 **Diffusion Process:**
@@ -41,6 +49,7 @@
 <img width="389" alt="image" src="https://github.com/user-attachments/assets/560e9af1-b91c-4ba0-94a4-c34d0c46a3ba">
 
 ### 2.Score SDE Formulation
+
 与DDPMs不同，SDE将DDPMs的离散情况推广到连续
 
 **Forward Process**
