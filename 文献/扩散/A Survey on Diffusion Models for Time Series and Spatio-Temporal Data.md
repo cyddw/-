@@ -12,6 +12,16 @@
 
 <img width="512" alt="image" src="https://github.com/user-attachments/assets/6d01ae66-b192-4bb6-8323-57e9a24e718b">
 
+时空数据包括STG和STT：
+
+<img width="448" alt="image" src="https://github.com/user-attachments/assets/16d7ddb8-1dc7-462f-8799-2826d73dc1df">
+
+其中STG又包括domain-oriented和domain-agnostic：
+
+<img width="447" alt="image" src="https://github.com/user-attachments/assets/95895c13-10d7-4e6c-ad23-baaa6aebdf84">
+
+其中domain-oriented侧重于特定领域的学习，而domain-agnostic侧重于在不同领域学习的迁移
+
 ## 扩散模型
 
 ### 1.Denoised Diffusion Probabilistic Models (DDPMs)
