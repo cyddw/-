@@ -64,7 +64,15 @@
 
 <img width="390" alt="image" src="https://github.com/user-attachments/assets/99cae6e5-06fa-4af3-9321-3e3691e6288b">
 
+### Conditional Diffusion Model
 
+Conditional Diffusion Model的定义：
+
+<img width="509" alt="image" src="https://github.com/user-attachments/assets/d7175d5a-86d1-406c-ada9-16de5664207b">
+
+Conditional Diffusion Model的适用范围：
+
+由于其高度的特定性以及输出可控性，可以用于特定的场景
 
 
 
