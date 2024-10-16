@@ -38,8 +38,11 @@
 
 <img width="389" alt="image" src="https://github.com/user-attachments/assets/560e9af1-b91c-4ba0-94a4-c34d0c46a3ba">
 
+### 2.Score SDE Formulation
 
+与DDPMs不同，SDE将DDPMs的离散情况推广到连续
 
+**Forward Process**
 
 
 ## 参考文献：[bilibili](https://www.bilibili.com/video/BV1tz4y1h7q1/?spm_id_from=333.337.search-card.all.click&vd_source=887e79a2964e5ce84cbcf68e50febd27)
