@@ -15,6 +15,9 @@ RNN原理图如下：
 
 > <img width="537" alt="image" src="https://github.com/user-attachments/assets/f787fc7e-9287-49d0-881f-9f233a3df28a">
 
+抛开W参数，剩下的X->U->S->V->O即为全连接神经网络，因此输入输出公式如下：
+
+> <img width="346" alt="image" src="https://github.com/user-attachments/assets/e50302f9-d0d1-4bc3-a097-ea7a5afbf48a">
 
 
 
