@@ -29,6 +29,7 @@
 **2.数据输入**
 
 **3.DM模型采样**
+
 <img width="368" alt="image" src="https://github.com/user-attachments/assets/702b44e4-da6d-40a0-b191-86604d280649">
 
 
