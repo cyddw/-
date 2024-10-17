@@ -1,4 +1,4 @@
-## 参考文献：[CSDN](https://blog.csdn.net/xys430381_1/article/details/110456496)
+## 参考文献：[CSDN](https://blog.csdn.net/xys430381_1/article/details/110456496)、[CSDN](https://blog.csdn.net/oTengYue/article/details/89644170)
 
 > ### 什么是penalty term？
 
@@ -12,3 +12,6 @@
 
 > <img width="299" alt="image" src="https://github.com/user-attachments/assets/86360bc2-67dd-4373-9cd5-3188d9760d24">
 
+其中，第一项是Loss Function，我们希望其尽可能小；第二项是Penalty Term，我们也希望其尽可能小(因为其越小，说明该模型越简单)
+
+由于Penalty Term代表模型复杂度，因此其一般是**模型复杂度的单调递增函数**
