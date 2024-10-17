@@ -12,7 +12,12 @@
 
 <img width="391" alt="image" src="https://github.com/user-attachments/assets/ff27875f-2e9a-4d72-8869-a61de8a09f0b">
 
-希望通过1:t<sub>0</sub>-1的多变量**x**以及1:T的协变量来预测出t<sub>0</sub>的多变量**x**
+希望通过1:t<sub>0</sub>-1的多变量**x**以及1:T的协变量来预测出t<sub>0</sub>:T的多变量**x**
+
+**基本思路：**
+
+<img width="436" alt="image" src="https://github.com/user-attachments/assets/e7e89991-f2e1-4b00-9184-0f7edc52a1fa">
+
 
 
 
