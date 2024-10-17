@@ -8,6 +8,11 @@
 
 ## TimeGrad模型
 
+**目标：**
+
+<img width="391" alt="image" src="https://github.com/user-attachments/assets/ff27875f-2e9a-4d72-8869-a61de8a09f0b">
+
+希望通过1:t<sub>0</sub>-1的多变量**x**以及1:T的协变量来预测出t<sub>0</sub>的多变量**x**
 
 
 
