@@ -6,3 +6,6 @@ Granger因果关系本质上是一种基于预测的因果关系检验方法，�
 Granger因果关系，正式定义为
 
 > <img width="643" alt="image" src="https://github.com/user-attachments/assets/fad05c59-c2bc-4388-991b-8601bf945e53">
+
+通常采用F检验或其他统计检验方式来判断公式（1）是否比公式（2）预测准确
+
