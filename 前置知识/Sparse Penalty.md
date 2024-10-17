@@ -14,4 +14,7 @@
 
 其中，第一项是Loss Function，我们希望其尽可能小；第二项是Penalty Term，我们也希望其尽可能小(因为其越小，说明该模型越简单)
 
-由于Penalty Term代表模型复杂度，因此其一般是**模型复杂度的单调递增函数**
+由于Penalty Term代表模型复杂度，因此其一般是**模型复杂度的单调递增函数**，例如：
+
+> <img width="579" alt="image" src="https://github.com/user-attachments/assets/1d30d152-de46-4eac-b81e-e1a83b170f8c">
+
