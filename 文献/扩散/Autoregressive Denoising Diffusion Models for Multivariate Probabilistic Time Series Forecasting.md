@@ -18,6 +18,7 @@
 
 <img width="436" alt="image" src="https://github.com/user-attachments/assets/e7e89991-f2e1-4b00-9184-0f7edc52a1fa">
 
+通过RNN网络，输入t-1时刻前的数据、t时刻的协变量以及t-2时刻隐藏层的特征，输出得到t-1时刻隐藏层的特征，将该特征作为参数输入扩散模型中，得到t时刻的数据
 
 
 
