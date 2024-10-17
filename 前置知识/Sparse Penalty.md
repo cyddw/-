@@ -18,3 +18,10 @@
 
 > <img width="579" alt="image" src="https://github.com/user-attachments/assets/1d30d152-de46-4eac-b81e-e1a83b170f8c">
 
+## L0、L1和L2范数
+
++ L0范数：向量中非0元素的个数
+
++ L1范数：向量中各个元素绝对值之和
+
++ L2范数：向量元素绝对值的平方和再开平方
