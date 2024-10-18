@@ -13,3 +13,10 @@ Laplace矩阵=[度矩阵](https://blog.csdn.net/luzaijiaoxia0618/article/details
 Laplace矩阵代表图的**二阶导数**
 
 ## [图傅里叶变换](https://zhuanlan.zhihu.com/p/147687999)
+
+对于图信号来说，拉普拉斯算子与拉普拉斯矩阵有相同的作用。所以可以考虑用拉普拉斯矩阵的特征向量作为图傅里叶投影的基。
+
+图的傅里叶变化和傅里叶逆变化：
+
+> <img width="515" alt="image" src="https://github.com/user-attachments/assets/94f8cf4f-5e60-4ffd-8c66-87b6d5c2d621">
+
