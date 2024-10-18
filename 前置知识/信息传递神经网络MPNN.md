@@ -30,7 +30,7 @@ Laplace矩阵代表图的**二阶导数**
 
 ### MPNN的基本框架：
 
-<img width="706" alt="image" src="https://github.com/user-attachments/assets/e83e90b0-4c37-4c88-b066-cdeb96f4efda">
+> <img width="706" alt="image" src="https://github.com/user-attachments/assets/e83e90b0-4c37-4c88-b066-cdeb96f4efda">
 
 
 
