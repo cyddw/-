@@ -1,10 +1,4 @@
-## 参考文献：
-
-## 图神经网络GNN：
-
-### 为什么要引入GNN：
-
-传统的神经网络只能处理[欧几里得数据](https://www.cnblogs.com/BlairGrowing/p/15802921.html)，对于[非欧几里得数据](https://www.cnblogs.com/BlairGrowing/p/15802921.html)无法处理，因此引入GNN
+## 参考文献：[CSDN](https://blog.csdn.net/weixin_44809488/article/details/124737310)
 
 ## [Laplace矩阵](https://zhuanlan.zhihu.com/p/362416124)
 
@@ -20,3 +14,12 @@ Laplace矩阵代表图的**二阶导数**
 
 > <img width="615" alt="image" src="https://github.com/user-attachments/assets/94f8cf4f-5e60-4ffd-8c66-87b6d5c2d621">
 
+## 图神经网络GNN：
+
+### 为什么要引入GNN：
+
+传统的神经网络只能处理[欧几里得数据](https://www.cnblogs.com/BlairGrowing/p/15802921.html)，对于[非欧几里得数据](https://www.cnblogs.com/BlairGrowing/p/15802921.html)无法处理，因此引入GNN
+
+### GNN的基本框架
+
+<img width="738" alt="image" src="https://github.com/user-attachments/assets/b49b709c-32ae-4335-9bb3-798c430e4841">
