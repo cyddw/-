@@ -18,5 +18,5 @@ Laplace矩阵代表图的**二阶导数**
 
 图的傅里叶变化和傅里叶逆变化：
 
-> <img width="515" alt="image" src="https://github.com/user-attachments/assets/94f8cf4f-5e60-4ffd-8c66-87b6d5c2d621">
+> <img width="615" alt="image" src="https://github.com/user-attachments/assets/94f8cf4f-5e60-4ffd-8c66-87b6d5c2d621">
 
