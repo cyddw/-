@@ -14,12 +14,24 @@ Laplace矩阵代表图的**二阶导数**
 
 > <img width="615" alt="image" src="https://github.com/user-attachments/assets/94f8cf4f-5e60-4ffd-8c66-87b6d5c2d621">
 
-## 图神经网络GNN：
+## 图神经网络GNN
 
-### 为什么要引入GNN：
+### 为什么要引入GNN
 
 传统的神经网络只能处理[欧几里得数据](https://www.cnblogs.com/BlairGrowing/p/15802921.html)，对于[非欧几里得数据](https://www.cnblogs.com/BlairGrowing/p/15802921.html)无法处理，因此引入GNN
 
 ### GNN的基本框架
 
 > <img width="738" alt="image" src="https://github.com/user-attachments/assets/b49b709c-32ae-4335-9bb3-798c430e4841">
+
+其中xi代表第i个节点的**节点表征**，我们希望通过最后的节点表征能够得到**全局的信息**
+
+## 信息传递神经网络MPNN
+
+### MPNN的基本框架：
+
+<img width="706" alt="image" src="https://github.com/user-attachments/assets/e83e90b0-4c37-4c88-b066-cdeb96f4efda">
+
+
+
+
