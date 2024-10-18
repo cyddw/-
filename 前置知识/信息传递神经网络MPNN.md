@@ -22,4 +22,4 @@ Laplace矩阵代表图的**二阶导数**
 
 ### GNN的基本框架
 
-<img width="738" alt="image" src="https://github.com/user-attachments/assets/b49b709c-32ae-4335-9bb3-798c430e4841">
+> <img width="738" alt="image" src="https://github.com/user-attachments/assets/b49b709c-32ae-4335-9bb3-798c430e4841">
