@@ -18,3 +18,4 @@
 
 > <img width="713" alt="image" src="https://github.com/user-attachments/assets/6e604ba5-729d-4acf-9370-f91c0b3e580a">
 
+初始时τ取较大值，之后逐渐减小τ值
