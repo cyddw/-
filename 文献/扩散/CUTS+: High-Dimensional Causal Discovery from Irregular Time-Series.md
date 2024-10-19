@@ -16,5 +16,5 @@
 
 ## 基本思路
 
-<img width="781" alt="image" src="https://github.com/user-attachments/assets/e5568478-bb32-457f-bbf1-aacd9d6869d4">
+> <img width="781" alt="image" src="https://github.com/user-attachments/assets/e5568478-bb32-457f-bbf1-aacd9d6869d4">
 
