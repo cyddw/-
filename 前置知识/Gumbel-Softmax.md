@@ -9,3 +9,5 @@
 > <img width="617" alt="image" src="https://github.com/user-attachments/assets/2b4140bb-be28-4700-8776-b459b1cf010d">
 
 ## [Softmax](https://zhuanlan.zhihu.com/p/168562182)函数
+
+
