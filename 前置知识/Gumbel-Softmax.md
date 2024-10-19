@@ -12,7 +12,7 @@
 
 ## 逆变换采样
 
-![1](https://github.com/user-attachments/assets/b2905efc-5c41-4126-9139-5e2a5d7a2c57)
+> https://github.com/user-attachments/assets/b2905efc-5c41-4126-9139-5e2a5d7a2c57
 
 
 
