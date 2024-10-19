@@ -26,4 +26,4 @@
 
 ### Causal Discovery Stage
 
-1. 打
++ 引入**Coarse-to-fine Causal Discovery**方法，其目的是为了减少大型数据集带来的维度爆炸问题
