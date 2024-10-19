@@ -18,3 +18,4 @@
 
 > <img width="781" alt="image" src="https://github.com/user-attachments/assets/e5568478-bb32-457f-bbf1-aacd9d6869d4">
 
+由上图可知，整体框架分为两个部分：**Causal Discovery Stage**和**Prediction Stage**
