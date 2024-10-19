@@ -14,8 +14,7 @@
 
 > https://github.com/user-attachments/assets/b2905efc-5c41-4126-9139-5e2a5d7a2c57
 
-
-
 ## Gumbel-Softmax的基本思路
 
+> <img width="713" alt="image" src="https://github.com/user-attachments/assets/6e604ba5-729d-4acf-9370-f91c0b3e580a">
 
