@@ -34,3 +34,20 @@
 
 > <img width="373" alt="image" src="https://github.com/user-attachments/assets/ea7ec812-acc3-4c01-bdaa-5e30a9862822">
 
+其中，G<sup>T</sup>表示同一子集所包含的元素矩阵，Q表示变量间的因果概率矩阵
+
++ Loss Function:
+
+> <img width="468" alt="image" src="https://github.com/user-attachments/assets/07b8d7d4-7873-4674-aac3-593670b26949">
+
+### Prediction Stage
+
++ 引入Gumbel-softmax对Causal Discovery Stage得到的M进行采样
+
++ 对原有的GPUs增加MPNN层以减少神经网络的冗余性
+
++ Loss Function：
+
+> <img width="463" alt="image" src="https://github.com/user-attachments/assets/8cdd55d6-2884-45e7-9779-c57e8acf915d">
+
+
