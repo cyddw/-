@@ -26,4 +26,6 @@
 
 ### Causal Discovery Stage
 
-+ 引入**Coarse-to-fine Causal Discovery**方法，其目的是为了减少大型数据集带来的维度爆炸问题
++ 引入**Coarse-to-fine Causal Discovery**方法，其目的是为了减少大型数据集带来的维度爆炸问题，基本思想：
+
+> 将N*T的数据集按照N这个维度进行分割，分割成多个互斥的子集;在模型训练的过程中逐渐对每个子集再细分，直至每个子集只有一个变量
