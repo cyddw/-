@@ -19,3 +19,11 @@
 > <img width="781" alt="image" src="https://github.com/user-attachments/assets/e5568478-bb32-457f-bbf1-aacd9d6869d4">
 
 由上图可知，整体框架分为两个部分：**Causal Discovery Stage**和**Prediction Stage**
+
++ Causal Discovery Stage：发现变量之间的Granger因果关系
+
++ Prediction Stage：预测数据，对缺失的irregular数据进行插值补充
+
+### Causal Discovery Stage
+
+
