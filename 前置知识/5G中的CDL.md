@@ -16,3 +16,5 @@ CDL下的信道冲激响应表示如下：
 + ZOD：离开天顶角
 
 + ZOA：到达天顶角
+
+> <img width="549" alt="image" src="https://github.com/user-attachments/assets/f0a21c81-2f39-4530-96e4-51471ea95dfc">
