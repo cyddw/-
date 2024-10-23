@@ -6,3 +6,13 @@
 CDL下的信道冲激响应表示如下：  
 <img width="496" alt="image" src="https://github.com/user-attachments/assets/f9b0f48e-fbf1-4ea1-9dc9-a335b4826171">  
 其中，T<sub>l</sub>表示第l个簇到达的时间，即第l个簇中第1条ray到达的时间，τ<sub>kl</sub>表示第l个簇中第k条ray到达的时间和T<sub>l</sub>的差值
+
+### CDL参数
+
++ AOD：离开方位角
+
++ AOA：到达方位角
+
++ ZOD：离开天顶角
+
++ ZOA：到达天顶角
