@@ -22,6 +22,6 @@
 
 莱斯衰落用来描述收发机之间有LOS径的独立多径分量的包络统计特性
 
-<img width="320" alt="image" src="https://github.com/user-attachments/assets/fcc992d8-1d22-4c2d-af04-13f78d77292c">
+> <img width="320" alt="image" src="https://github.com/user-attachments/assets/fcc992d8-1d22-4c2d-af04-13f78d77292c">
 
 其中，K1为莱斯因子：定义LOS分量功率和NLOS分量功率的比值
