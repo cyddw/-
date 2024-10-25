@@ -1,1 +1,74 @@
+dir_name: outputs
+task_name: lorenz_cuts
+
+log:
+  stdout: false
+  stderr: false
+  tensorboard: true
+  
+data:
+  name: lorenz_96
+  param:
+    p: 128
+    T: 1000
+    seed: 0
+  missing: 
+    name: RBM
+    params:
+      p_block: 0
+      p_noise: 0.3
+      max_seq: 48
+      min_seq: 12
+  pre_impute:
+    name: ZOH
+    params: 
+      total_epoch: 10
+      window_size: 24
+  reduce_data: 1P
+  seed: 0
+
+reproduc:
+  seed: 42
+  benchmark: false
+  deterministic: true
+
+
+sota:
+  cuts_plus:
+    n_nodes: auto
+    input_step: 1
+    batch_size: 128
+    data_dim: 1
+    total_epoch: 64
+
+    n_groups: 32
+    group_policy: multiply_2_every_20
+
+    supervision_policy: masked_before_100
+    fill_policy: rate_0.1_after_20
+    show_graph_every: 16
+    
+    data_pred:
+      model: multi_lstm
+      pred_step: 1
+      mlp_hid: 32
+      gru_layers: 1
+      shared_weights_decoder: false
+      concat_h: true
+      lr_data_start: 1e-2
+      lr_data_end: 1e-3
+      weight_decay: 0
+      prob: true
+
+    graph_discov:
+      lambda_s_start: 1e-1
+      lambda_s_end: 1e-2
+      lr_graph_start: 1e-3
+      lr_graph_end: 1e-4
+      start_tau: 1
+      end_tau: 0.1
+      dynamic_sampling_milestones: [0]
+      dynamic_sampling_periods: [1]
+
+    causal_thres: value_0.5 # percentile_40
 
