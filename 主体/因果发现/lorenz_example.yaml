@@ -4,7 +4,7 @@ task_name: lorenz_cuts
 log:
   stdout: false  #标准输出不被记录
   stderr: false  #标准错误不被记录
-  tensorboard: true
+  tensorboard: true  #tensorboard使用[教程](https://blog.csdn.net/qq_41656402/article/details/131123121)
   
 data:
   name: lorenz_96
