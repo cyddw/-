@@ -1,9 +1,9 @@
-dir_name: outputs
+dir_name: outputs    
 task_name: lorenz_cuts
 
 log:
-  stdout: false
-  stderr: false
+  stdout: false  #标准输出不被记录
+  stderr: false  #标准错误不被记录
   tensorboard: true
   
 data:
