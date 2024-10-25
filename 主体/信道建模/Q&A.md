@@ -26,4 +26,14 @@
 
 首先，只考虑发射端32根天线的其中一根，天线向用户端发射2.4GHz的ray，ray经过25个簇，依次到达用户端，其中每个簇均包含20条径，用户端在移动的同时，进行20次采样，由于每个簇内的20条径性质基本一致，因此认为其可以合并成一条径，因此每次采样我们都可以得到25个不同簇的csi，所以总的时延个数应为1*32*25*20
 
-## Q4.如何将时域转换为频域csi
+## Q4.如何将时域转换为频域csi？
+
+时域：
+
+> <img width="619" alt="image" src="https://github.com/user-attachments/assets/c675b78d-9100-41f3-9c87-f020a45eafd7">
+
+频域：
+
+> <img width="697" alt="image" src="https://github.com/user-attachments/assets/65ff899c-a2cd-4981-a011-e24ed1d858c1">
+
+
