@@ -13,14 +13,14 @@ data:
     T: 1000
     seed: 0
   missing: 
-    name: RBM
+    name: RBM    #使用RBM补全缺失值
     params:
       p_block: 0
       p_noise: 0.3
       max_seq: 48
       min_seq: 12
   pre_impute:
-    name: ZOH
+    name: ZOH    #ZOH(零阶保持器，将离散信号转换为连续信号)
     params: 
       total_epoch: 10
       window_size: 24
