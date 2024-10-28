@@ -6,7 +6,7 @@
 
 ## 一维卷积
 
-> <img width="630" alt="image" src="https://github.com/user-attachments/assets/52c17d34-be60-4142-8baa-7e1ce6492d39">
+> <img width="830" alt="image" src="https://github.com/user-attachments/assets/52c17d34-be60-4142-8baa-7e1ce6492d39">
 
 > <img width="565" alt="image" src="https://github.com/user-attachments/assets/51b3256b-7261-4a6b-9836-8cb2457588bb">
 
