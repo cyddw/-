@@ -14,5 +14,5 @@
 
 > <img width="625" alt="image" src="https://github.com/user-attachments/assets/26afd2b6-5f66-451e-972a-655622078670">
 
-## 权值共享
+## [权值共享](https://baike.baidu.com/item/%E6%9D%83%E5%80%BC%E5%85%B1%E4%BA%AB/22689640)
 
