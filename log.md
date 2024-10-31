@@ -54,6 +54,18 @@
 
 3.报错“invalid value encountered in divide”
 
-> 【已排查】精度引起？
->
->
+> 最后确定是因为标准化时，分母std=0
+
+> 尝试不进行标准化处理
+
+4.报错“UserWarning: Detected call of `lr_scheduler.step()` before `optimizer.step()`. In PyTorch 1.1.0 and later, you should call them in” 
+
+> batch_size问题，将其由128改为5
+
+5.运算结果分析：
+
+> 运算准确率只有0.5
+
+> 因果图方面超出预期，前96基本没有因果关系，和理论一样
+
+6.下一步工作：提高准确率，可改进方面：1.从初始因果图着手 2.数据标准化 3.增加T维度的数据 4.增加node数据 5.减少node数据 6.参数优化(epoch、lr...)
