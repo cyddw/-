@@ -88,6 +88,7 @@
 
 > 前20个epoch，data不会更新，后面的epoch，data会进行更新，data和预测的data进行融合得到新data
 
-> 因果发现部分是如何运行的？
+3.因果发现部分是如何运行的？
 
+> ![image](https://github.com/user-attachments/assets/7552dcb4-6b75-431c-badf-d9b6e34497ac)
 
