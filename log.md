@@ -85,3 +85,9 @@
 2.尝试对calc_and_log_metrics的阈值进行修改看是否能改善AUC
 
 > 将阈值由0.5改为0.3 AUC=0.2817，前半段AUC变化，后半段AUC不变化，为什么？
+
+> 前20个epoch，data不会更新，后面的epoch，data会进行更新，data和预测的data进行融合得到新data
+
+> 因果发现部分是如何运行的？
+
+
