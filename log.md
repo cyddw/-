@@ -94,5 +94,7 @@
 
 4.AUC取值为什么与阈值无关？
 
+> 查询资料可知，AUC取值与阈值无关，详情可见[CSDN](https://blog.csdn.net/pearl8899/article/details/109829306)
+
 
 
