@@ -96,5 +96,7 @@
 
 > 查询资料可知，AUC取值与阈值无关，详情可见[CSDN](https://blog.csdn.net/pearl8899/article/details/109829306)
 
+5.源代码中，AUC和ACC取值都接近1，而自身代码AUC为0.28，而ACC为0.9，为什么？
 
+> [CSDN](https://blog.csdn.net/Jessica__Chan/article/details/104492761)
 
