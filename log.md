@@ -190,6 +190,8 @@
 
 > 发现Online learning是很大的一类，准备选择一篇经典论文进行学习
 
+> 后续可改进空间：1.考虑MIMO结构，对用户之间的Granger因果进行探究 2.考虑Online-learning 3.考虑对Granger discovery部分进行改进
+
 
 
 
