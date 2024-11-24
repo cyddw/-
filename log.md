@@ -188,6 +188,7 @@
 
 > 尝试对Online learning进行学习
 
+> 发现Online learning是很大的一类，准备选择一篇经典论文进行学习
 
 
 
